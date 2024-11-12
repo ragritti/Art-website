@@ -5,7 +5,7 @@ export default function Header() {
     const [isMenuOpen, setIsMenuOpen] = useState(false);
 
     return (
-        <header className="fixed top-0 left-0 w-full bg-white z-10 shadow-sm">
+        <header className="fixed top-0 left-0 w-full bg-white z-10">
             <nav className="container mx-auto px-4 sm:px-6 lg:px-12 py-4">
                 <div className="flex justify-between items-center">
                     {/* Logo Section */}
@@ -57,7 +57,7 @@ export default function Header() {
 
                 {/* Mobile Navigation - Positioned below logo */}
                 {isMenuOpen && (
-                    <div className="absolute left-0 right-0 top-full bg-white border-t border-gray-100 shadow-lg md:hidden">
+                    <div className="absolute left-0 right-0 top-full bg-white border-t border-gray-900 md:hidden">
                         <div className="flex flex-col py-4">
                             <a 
                                 href="/" 
