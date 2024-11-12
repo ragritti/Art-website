@@ -79,7 +79,7 @@ export default function Sliderr() {
         settings: {
           slidesToShow: 1,
           arrows: dataLength > 1,
-          dots: true,
+          dots: false,
         }
       }
     ]

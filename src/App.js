@@ -24,7 +24,7 @@ function App() {
         <div>
           <Home />
         </div>
-        <div className="flex justify-center text-center mt-16" id="collections">
+        <div className="flex justify-center text-center mt-16 px-6" id="collections">
           <h1 className="text-4xl font-normal">Discover the Art you love!</h1>
         </div>
         <div className="flex text-center mt-12 mb-8 justify-center">
