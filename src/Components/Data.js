@@ -5,8 +5,8 @@ export const masterData = {
       title: 'Water Colours',
       subtitle: 'Hand-drawn masterpieces',
       data: [
-        { id: 1, title: '001', price: 2500, imageUrl: '/images/WaterColours/005.jpg', description: 'Handmade Charcoal Art' },
-        { id: 2, title: '002', price: 2500, imageUrl: '/images/WaterColours/016.jpg', description: 'Handmade Charcoal Art' },
+        { id: 1, title: '001', price: 2500, imageUrl: '/images/WaterColours/016.jpg', description: 'Handmade Charcoal Art' },
+        { id: 2, title: '002', price: 2500, imageUrl: '/images/WaterColours/005.jpg', description: 'Handmade Charcoal Art' },
         { id: 3, title: '003', price: 2500, imageUrl: '/images/WaterColours/012.heic', description: 'Handmade Charcoal Art' },
         { id: 4, title: '004', price: 2500, imageUrl: '/images/WaterColours/019.jpg', description: 'Handmade Charcoal Art' },
         { id: 5, title: '005', price: 2000, imageUrl: '/images/WaterColours/shiva.jpg', description: 'Handmade Charcoal Art' },
@@ -48,7 +48,9 @@ export const masterData = {
       data: [
         { id: 1, title: '021', price: 1800, imageUrl: '/images/Oilpaintings/op_1.jpg', description: 'Detailed Graphite Work' },
         { id: 2, title: '022', price: 2100, imageUrl: '/images/Oilpaintings/op_2.jpg', description: 'Detailed Graphite Work' },
-        { id: 3, title: '023', price: 2300,imageUrl:'/images/Oilpaintings/op_3.jpg', description: 'Detailed Graphite Work' }
+        { id: 3, title: '023', price: 2300,imageUrl:'/images/Oilpaintings/op_3.jpg', description: 'Detailed Graphite Work' },
+        { id: 4, title: '024', price: 2600, imageUrl: '/images/Acrylic/ac_2.jpg', description: 'Expressive Acrylic Art' },
+
       ]
     },
     {
@@ -57,8 +59,7 @@ export const masterData = {
       subtitle: 'Bold and vibrant colors',
       data: [
         { id: 1, title: '031', price: 2400, imageUrl:  '/images/Acrylic/ac_1.jpg', description: 'Expressive Acrylic Art' },
-        { id: 2, title: '032', price: 2600, imageUrl: '/images/Acrylic/ac_2.jpg', description: 'Expressive Acrylic Art' },
-        { id: 3, title: '033', price: 2800,imageUrl:'/images/Acrylic/ac_3.jpg', description: 'Expressive Acrylic Art' }
+        { id: 2, title: '032', price: 2800,imageUrl:'/images/Acrylic/ac_3.jpg', description: 'Expressive Acrylic Art' }
    ]
    },
     {
