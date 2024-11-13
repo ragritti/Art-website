@@ -32,6 +32,7 @@ export default function Cards(props) {
             src={props.image}
             alt={props.title}
             className="w-full h-60 object-contain"
+            fetchPriority="high"
           />
         </a>
         <div className="p-4 ">
