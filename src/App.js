@@ -24,11 +24,11 @@ function App() {
         <div>
           <Home />
         </div>
-        <div className="flex justify-center text-center mt-16 px-6" id="collections">
-          <h1 className="text-4xl font-normal">Discover the Art you love!</h1>
+        <div className="flex justify-center text-center mt-12 px-6" id="collections">
+          <h1 className="text-4xl font-medium text-gray-950">Discover the Art you love!</h1>
         </div>
         <div className="flex text-center mt-12 mb-8 justify-center">
-          <h2 className="text-3xl font-normal">Shop by category</h2>
+          <h2 className="text-3xl font-normal text-gray-950">Shop by category</h2>
         </div>
         <div>
         <Sliderr/>

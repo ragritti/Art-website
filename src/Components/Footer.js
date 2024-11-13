@@ -18,7 +18,7 @@ const Footer = () => {
             <div className="flex flex-col gap-1">
               <a href="/">
             <img src="/images/logo.jpeg" alt="AC_logo" className="h-20 w-20" />
-              <h2 className="text-xl font-medium text-gray-700">AMODA CREATIONS</h2>
+              <h2 className="text-xl font-medium text-gray-700 font-montserrat">AMODA CREATIONS</h2>
               </a>
               <p className="text-sm text-gray-700">Bringing art to life</p>
             </div>
