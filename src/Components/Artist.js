@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Artist() {
   return (
-    <div className="relative bg-[#F0F8FF] mb-10" id='artist'>
+    <div className="relative bg-[#F0F8FF] mb-4" id='artist'>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="lg:grid lg:grid-cols-2 lg:gap-16 items-center">
           <div className="relative">

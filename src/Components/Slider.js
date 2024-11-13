@@ -15,11 +15,12 @@ function NextArrow(props) {
         ...style, 
         display: "block", 
         color: "black",
-        right: "-25px" 
+        right: "-10px",
+        background:"white" 
       }}
       onClick={onClick}
     >
-      <ChevronRight size={20} />
+      <ChevronRight size={24} />
     </div>
   );
 }
@@ -33,7 +34,8 @@ function PrevArrow(props) {
         ...style, 
         display: "block", 
         color: "black",
-        left: "-25px"
+        left: "-10px",
+        background:"white" 
       }}
       onClick={onClick}
     >
@@ -117,3 +119,5 @@ export default function Sliderr() {
     </div>
   );
 }
+
+
