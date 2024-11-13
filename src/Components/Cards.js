@@ -20,7 +20,7 @@
 import React from "react";
 
 export default function Cards(props) {
-  const whatsappLink = `https://wa.me/919538215124?text=${encodeURIComponent(
+  const whatsappLink = `https://wa.me/919008490445?text=${encodeURIComponent(
     `Hi, I am interested in buying the painting "${props.title}" from your collection.`
   )}`;
 
