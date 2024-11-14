@@ -1,5 +1,5 @@
 import Header from "./Components/Header";
-import Home from "./Home";
+// import Home from "./Home";
 import Artist from "./Components/Artist";
 import './index.css';
 import Sliderr from "./Components/Slider";
