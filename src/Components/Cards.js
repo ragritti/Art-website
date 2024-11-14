@@ -39,7 +39,7 @@ export default function Cards(props) {
           <h3 className="text-lg font-semibold text-gray-800 line-clamp-1">
             {props.title}
           </h3>
-          {/* <p className="text-sm text-gray-600 mt-1 line-clamp-2">{description}</p> */}
+          <p className="text-base font-bold text-gray-800 mt-1 line-clamp-2">{props.desc}</p>
           <p className="text-lg font-bold text-gray-900 mt-2">₹{props.price}</p>
         </div>
       </div>

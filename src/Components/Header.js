@@ -6,7 +6,7 @@ export default function Header() {
 
     return (
         <header className="fixed top-0 left-0 w-full bg-white z-10">
-            <nav className="container mx-auto px-4 sm:px-6 lg:px-12 py-4">
+            <nav className="container mx-auto px-4 sm:px-6 lg:px-12 py-2">
                 <div className="flex justify-between items-center">
                     {/* Logo Section */}
                     <a href="/" className="z-20">
@@ -14,7 +14,7 @@ export default function Header() {
                             <img 
                                 src="/images/logo.jpeg" 
                                 alt="AC_logo" 
-                                className="h-8 sm:h-12"
+                                className="h-16 sm:h-20"
                             />
                             <h2 className="text-gray-700 text-sm sm:text-lg font-semibold font-montserrat">
                                 AMODA CREATIONS

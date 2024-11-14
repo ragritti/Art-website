@@ -101,12 +101,13 @@ export default function Sliderr() {
             </div>
             
             <div className="max-w-[1400px] mx-auto">
-              <Slider {...settings}>
+              <Slider {...settings}  lazyLoad="ondemand">
                 {category.data.map((item) => (
                   <div key={item.id} className="px-2">
                     <Cards
                       image={item.imageUrl}
                       title={item.title}
+                      desc={item.desc}
                       price={item.price}
                     />
                   </div>

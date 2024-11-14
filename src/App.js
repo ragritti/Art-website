@@ -18,12 +18,12 @@ function App() {
   // });
   return (
     <div className="flex flex-col">
-        <div className="pt-20">
+        <div className="pt-14">
           <Header />
         </div>
-        <div>
+        {/* <div>
           <Home />
-        </div>
+        </div> */}
         <div className="flex justify-center text-center mt-12 px-6" id="collections">
           <h1 className="text-4xl font-medium text-gray-950">Discover the Art you love!</h1>
         </div>
