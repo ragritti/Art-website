@@ -56,7 +56,7 @@ const Footer = () => {
                 <Youtube className="h-6 w-6" />
               </a>
               <a 
-                href="mailto:artivityforpositivity@gmail.com" 
+                href="mailto:amodacreations@gmail.com" 
                 className="hover:text-gray-700 transition-colors p-1 text-gray-700"
                 aria-label="mail"
               >
@@ -70,7 +70,7 @@ const Footer = () => {
                 <Instagram className="h-6 w-6" />
               </a>
               <a 
-                href="tel:+919008490445" 
+                href="https://wa.me/919902066632" 
                 className="hover:text-gray-700 transition-colors p-1 text-gray-700"
                 aria-label="LinkedIn"
               >

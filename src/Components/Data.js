@@ -20,10 +20,6 @@ export const masterData = {
         { id: 13, title:'W013', price: 8000,desc:'9*12', imageUrl: '/images/WaterColours/004.jpg', description: 'Handmade Charcoal Art' },
         { id: 14, title:'W014', price: 12000,desc:'8.3*11.7', imageUrl: '/images/WaterColours/018.jpg', description: 'Handmade Charcoal Art' },
 
-
-
-
-
       ]
       
     },
