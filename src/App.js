@@ -6,16 +6,6 @@ import Sliderr from "./Components/Slider";
 import Footer from "./Components/Footer";
 
 function App() {
-  // const cards = masterData.categories.map(category => {
-  //   return category.data.map(item => (
-  //     <Cards 
-  //       key={item.id} 
-  //       image={item.imageUrl}
-  //       title={item.title}
-  //       price={item.price}
-  //     />
-  //   ));
-  // });
   return (
     <div className="flex flex-col">
         <div className="pt-14">
