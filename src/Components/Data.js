@@ -71,10 +71,10 @@ export const masterData = {
       title: 'Graphite/Charcoal Art',
       subtitle: 'Soft and transparent layers',
       data: [
-        { id: 1, title: 'GC001', price: 5000,desc:'11.7*16.5', imageUrl: '/images/Graphite/gc_1.jpg', description: 'Serene Watercolour Art' },
-        { id: 2, title: 'GC002', price: 12000,desc:'9*12', imageUrl: '/images/Graphite/gc_2.jpg', description: 'Serene Watercolour Art' },
-        { id: 3, title: 'GC003', price: 15000,desc:'11.7*16.5', imageUrl: '/images/Graphite/gc_3.jpg', description: 'Serene Watercolour Art' },
-        { id: 4, title: 'GC004', price: 30000,desc:'24*16.5', imageUrl: '/images/Graphite/gc_4.jpeg', description: 'Serene Watercolour Art' }
+        { id: 4, title: 'GC001', price: 30000,desc:'24*16.5', imageUrl: '/images/Graphite/gc_4.jpeg', description: 'Serene Watercolour Art' },
+        { id: 1, title: 'GC002', price: 5000,desc:'11.7*16.5', imageUrl: '/images/Graphite/gc_1.jpg', description: 'Serene Watercolour Art' },
+        { id: 2, title: 'GC003', price: 12000,desc:'9*12', imageUrl: '/images/Graphite/gc_2.jpg', description: 'Serene Watercolour Art' },
+        { id: 3, title: 'GC004', price: 15000,desc:'11.7*16.5', imageUrl: '/images/Graphite/gc_3.jpg', description: 'Serene Watercolour Art' },
       ]
     },
     {
@@ -82,10 +82,10 @@ export const masterData = {
       title: 'Miscellaneous',
       subtitle: 'Rich and textural compositions',
       data: [
-        { id: 4, title: 'M001', price: 10000,desc:'8.3*11.7', imageUrl: '/images/Miscellaneous/o_4.jpg', description: 'Detailed Oil Painting' },
-        { id: 1, title: 'M002', price: 12000,desc:'8.3*11.7', imageUrl: '/images/Miscellaneous/o_1.jpg', description: 'Detailed Oil Painting' },
-        { id: 2, title: 'M003', price: 10000,desc:'9.5*12', imageUrl: '/images/Miscellaneous/o_2.jpg', description: 'Detailed Oil Painting' },
-        { id: 3, title: 'M004', price: 12000,desc:'11.7*16.5', imageUrl: '/images/Miscellaneous/o_3.jpg', description: 'Detailed Oil Painting' },
+        { id: 1, title: 'M001', price: 12000,desc:'8.3*11.7', imageUrl: '/images/Miscellaneous/o_1.jpg', description: 'Detailed Oil Painting' },
+        { id: 2, title: 'M002', price: 10000,desc:'9.5*12', imageUrl: '/images/Miscellaneous/o_2.jpg', description: 'Detailed Oil Painting' },
+        { id: 3, title: 'M003', price: 12000,desc:'11.7*16.5', imageUrl: '/images/Miscellaneous/o_3.jpg', description: 'Detailed Oil Painting' },
+        { id: 4, title: 'M004', price: 10000,desc:'8.3*11.7', imageUrl: '/images/Miscellaneous/o_4.jpg', description: 'Detailed Oil Painting' },
 
       ]
     },
