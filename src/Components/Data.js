@@ -81,11 +81,13 @@ export const masterData = {
       id: 5,
       title: 'Miscellaneous',
       subtitle: 'Rich and textural compositions',
-      data: [
-        { id: 1, title: 'M001', price: 12000,desc:'8.3*11.7', imageUrl: '/images/Miscellaneous/o_1.jpg', description: 'Detailed Oil Painting' },
-        { id: 2, title: 'M002', price: 10000,desc:'9.5*12', imageUrl: '/images/Miscellaneous/o_2.jpg', description: 'Detailed Oil Painting' },
-        { id: 3, title: 'M003', price: 12000,desc:'11.7*16.5', imageUrl: '/images/Miscellaneous/o_3.jpg', description: 'Detailed Oil Painting' },
-        { id: 4, title: 'M004', price: 10000,desc:'8.3*11.7', imageUrl: '/images/Miscellaneous/o_4.jpg', description: 'Detailed Oil Painting' },
+      data: 
+      [
+        { id: 5, title: 'M001', price: 10000,desc:'9.5*12', imageUrl: '/images/Miscellaneous/o_5.jpeg', description: 'Detailed Oil Painting' },
+        { id: 1, title: 'M002', price: 12000,desc:'8.3*11.7', imageUrl: '/images/Miscellaneous/o_1.jpg', description: 'Detailed Oil Painting' },
+        { id: 2, title: 'M003', price: 10000,desc:'9.5*12', imageUrl: '/images/Miscellaneous/o_2.jpg', description: 'Detailed Oil Painting' },
+        { id: 3, title: 'M004', price: 12000,desc:'11.7*16.5', imageUrl: '/images/Miscellaneous/o_3.jpg', description: 'Detailed Oil Painting' },
+        { id: 4, title: 'M005', price: 10000,desc:'8.3*11.7', imageUrl: '/images/Miscellaneous/o_4.jpg', description: 'Detailed Oil Painting' },
 
       ]
     },

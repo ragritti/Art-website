@@ -82,7 +82,7 @@ const Footer = () => {
 
         <div className="flex justify-center border-t border-gray-800 mt-6 pt-8">
           <p className="text-sm text-gray-700">
-            © {new Date().getFullYear()} ArtisticCanvas. All rights reserved.
+            © {new Date().getFullYear()} Amoda Creations. All rights reserved.
           </p>
         </div>
       </div>
