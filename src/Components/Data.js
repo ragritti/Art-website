@@ -45,12 +45,12 @@ export const masterData = {
       title: 'Oil Paintings',
       subtitle: 'Precision in every stroke',
       data: [
-        { id: 6, title: 'OP006', price: 25000,desc:'18*24',  imageUrl: '/images/Oilpaintings/op_6.jpeg', description: 'Expressive Acrylic Art' },
-        { id: 5, title: 'OP001', price: 50000,desc:'24*36',  imageUrl: '/images/Oilpaintings/op_5.jpeg', description: 'Detailed Graphite Work' },
-        { id: 1, title: 'OP002', price: 15000,desc:'15*22',  imageUrl: '/images/Oilpaintings/op_1.jpg', description: 'Detailed Graphite Work' },
-        { id: 2, title: 'OP003', price: 25000,desc:'18*24',  imageUrl: '/images/Oilpaintings/op_2.jpg', description: 'Detailed Graphite Work' },
-        { id: 3, title: 'OP004', price: 12000,desc:'9*12', imageUrl:'/images/Oilpaintings/op_3.jpg', description: 'Detailed Graphite Work' },
-        { id: 4, title: 'OP005', price: 8000,desc:'12',  imageUrl: '/images/Oilpaintings/op_4.jpg', description: 'Expressive Acrylic Art' },
+        { id: 6, title: 'OP001', price: 25000,desc:'18*24',  imageUrl: '/images/Oilpaintings/op_6.jpeg', description: 'Expressive Acrylic Art' },
+        { id: 5, title: 'OP002', price: 50000,desc:'24*36',  imageUrl: '/images/Oilpaintings/op_5.jpeg', description: 'Detailed Graphite Work' },
+        { id: 1, title: 'OP003', price: 15000,desc:'15*22',  imageUrl: '/images/Oilpaintings/op_1.jpg', description: 'Detailed Graphite Work' },
+        { id: 2, title: 'OP004', price: 25000,desc:'18*24',  imageUrl: '/images/Oilpaintings/op_2.jpg', description: 'Detailed Graphite Work' },
+        { id: 3, title: 'OP005', price: 12000,desc:'9*12', imageUrl:'/images/Oilpaintings/op_3.jpg', description: 'Detailed Graphite Work' },
+        { id: 4, title: 'OP006', price: 8000,desc:'12',  imageUrl: '/images/Oilpaintings/op_4.jpg', description: 'Expressive Acrylic Art' },
 
 
       ]
