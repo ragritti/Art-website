@@ -61,12 +61,10 @@ export const masterData = {
       title: 'Acrylic Art',
       subtitle: 'Bold and vibrant colors',
       data: [
-        { id: 1, title: 'A001', price: 10000,desc:'13.3*17.3',  imageUrl:  '/images/Acrylic/ac_1.jpg', description: 'Expressive Acrylic Art' },
-        { id: 2, title: 'A002', price: 4000,desc:'11.8*11.8', imageUrl:'/images/Acrylic/ac_2.jpg', description: 'Expressive Acrylic Art' },
-        { id: 3, title: 'A003', price: 2000,desc:'4*8', imageUrl:'/images/Acrylic/ac_3.jpg', description: 'Expressive Acrylic Art' },
-
-
-  
+        { id: 1, title: 'A001', price: 22000,desc:'24*18',  imageUrl:  '/images/Acrylic/ac_4.jpeg', description: 'Expressive Acrylic Art' },
+        { id: 2, title: 'A002', price: 10000,desc:'13.3*17.3',  imageUrl:  '/images/Acrylic/ac_1.jpg', description: 'Expressive Acrylic Art' },
+        { id: 3, title: 'A003', price: 4000,desc:'11.8*11.8', imageUrl:'/images/Acrylic/ac_2.jpg', description: 'Expressive Acrylic Art' },
+        { id: 4, title: 'A004', price: 2000,desc:'4*8', imageUrl:'/images/Acrylic/ac_3.jpg', description: 'Expressive Acrylic Art' }, 
    ]
    },
     {
