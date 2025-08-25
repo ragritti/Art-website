@@ -76,9 +76,10 @@ export const masterData = {
       subtitle: 'Soft and transparent layers',
       data: [
         { id: 4, title: 'GC001', price: 30000, desc: '24*16.5', imageUrl: '/images/Graphite/gc_4.jpeg', description: 'Serene Watercolour Art' },
-        { id: 1, title: 'GC002', price: 5000, desc: '11.7*16.5', imageUrl: '/images/Graphite/gc_1.jpg', description: 'Serene Watercolour Art' },
+        { id: 4, title: 'GC002', price: 10000, desc: '10.8*11.4', imageUrl: '/images/Graphite/gc_5.jpeg', description: 'Serene Watercolour Art' },
         { id: 2, title: 'GC003', price: 12000, desc: '9*12', imageUrl: '/images/Graphite/gc_2.jpg', description: 'Serene Watercolour Art' },
         { id: 3, title: 'GC004', price: 15000, desc: '11.7*16.5', imageUrl: '/images/Graphite/gc_3.jpg', description: 'Serene Watercolour Art' },
+        { id: 1, title: 'GC005', price: 5000, desc: '11.7*16.5', imageUrl: '/images/Graphite/gc_1.jpg', description: 'Serene Watercolour Art' },
       ]
     },
     {
