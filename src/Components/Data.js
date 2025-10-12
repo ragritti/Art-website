@@ -39,7 +39,6 @@ export const masterData = {
         { id: 3, title: 'WF003', price: 10000, desc: '9*12', imageUrl: '/images/WaterColours/WF03.jpg', description: 'Handmade Charcoal Art' },
         { id: 4, title: 'WF004', price: 5000, desc: '8*8', imageUrl: '/images/WaterColours/WF04.jpg', description: 'Handmade Charcoal Art' },
         { id: 5, title: 'WF005', price: 10000, desc: '9*12', imageUrl: '/images/WaterColours/WF05.jpg', description: 'Handmade Charcoal Art' },
-
       ]
 
     },
@@ -49,13 +48,13 @@ export const masterData = {
       subtitle: 'Precision in every stroke',
       data: [
         { id: 6, title: 'OP001', price: 25000, desc: '18*24', imageUrl: '/images/Oilpaintings/op_6.jpeg', description: 'Expressive Acrylic Art' },
-        { id: 5, title: 'OP002', price: 50000, desc: '24*36', imageUrl: '/images/Oilpaintings/op_5.jpeg', description: 'Detailed Graphite Work' },
+        { id: 8, title: 'OP002', price: 50000, desc: '24*36', imageUrl: '/images/Oilpaintings/op_8.jpeg', description: 'Detailed Graphite Work' },
         { id: 7, title: 'OP003', price: 25000, desc: '18*24', imageUrl: '/images/Oilpaintings/op_7.jpeg', description: 'Expressive Acrylic Art' },
         { id: 2, title: 'OP004', price: 25000, desc: '18*24', imageUrl: '/images/Oilpaintings/op_2.jpg', description: 'Detailed Graphite Work' },
         { id: 3, title: 'OP005', price: 12000, desc: '9*12', imageUrl: '/images/Oilpaintings/op_3.jpg', description: 'Detailed Graphite Work' },
         { id: 4, title: 'OP006', price: 8000, desc: '12', imageUrl: '/images/Oilpaintings/op_4.jpg', description: 'Expressive Acrylic Art' },
         { id: 1, title: 'OP007', price: 15000, desc: '15*22', imageUrl: '/images/Oilpaintings/op_1.jpg', description: 'Detailed Graphite Work' },
-
+        { id: 5, title: 'OP008', price: 50000, desc: '24*36', imageUrl: '/images/Oilpaintings/op_5.jpeg', description: 'Detailed Graphite Work' },
 
       ]
     },
