@@ -7,7 +7,7 @@ export const masterData = {
       data: [
         { id: 1, title: 'W001', price: 18000, desc: '24*18', imageUrl: '/images/WaterColours/026.jpeg', description: 'Handmade Charcoal Art' },
         { id: 21, title: 'W002', price: 25000, desc: '16*22', imageUrl: '/images/WaterColours/028.jpeg', description: 'Handmade Charcoal Art' },
-        { id: 20, title: 'W003', price: 16000, desc: '12*18', imageUrl: '/images/WaterColours/027.jpeg', description: 'Handmade Charcoal Art' },
+        { id: 22, title: 'W003', price: 35000, desc: '22*30', imageUrl: '/images/WaterColours/029.jpeg', description: 'Handmade Charcoal Art' },
         { id: 17, title: 'W004', price: 22000, desc: '18*14', imageUrl: '/images/WaterColours/025.jpeg', description: 'Handmade Charcoal Art' },
         { id: 5, title: 'W005', price: 10000, desc: '8.3*11.7', imageUrl: '/images/WaterColours/005.jpg', description: 'Handmade Charcoal Art' },
         { id: 6, title: 'W006', price: 5000, desc: '8*8', imageUrl: '/images/WaterColours/014.jpg', description: 'Handmade Charcoal Art' },
@@ -28,6 +28,7 @@ export const masterData = {
         { id: 1, title: 'W021', price: 5000, desc: '8*8', imageUrl: '/images/WaterColours/015.jpg', description: 'Handmade Charcoal Art' },
         { id: 18, title: 'W022', price: 14000, desc: '16*12', imageUrl: '/images/WaterColours/024.jpeg', description: 'Handmade Charcoal Art' },
         { id: 19, title: 'W0023', price: 35000, desc: '22*30', imageUrl: '/images/WaterColours/023.jpeg', description: 'Handmade Charcoal Art' },
+        { id: 20, title: 'W0024', price: 16000, desc: '12*18', imageUrl: '/images/WaterColours/027.jpeg', description: 'Handmade Charcoal Art' },
 
 
       ]
