@@ -54,13 +54,15 @@ export const masterData = {
       data: [
         { id: 1, title: 'OP001', price: 15000, desc: '15x22', imageUrl: '/images/Oilpaintings/op_1.jpg', description: 'Realistic Oil Portrait' },
         { id: 2, title: 'OP002', price: 25000, desc: '18x24', imageUrl: '/images/Oilpaintings/op_2.jpg', description: 'Detailed Oil Painting' },
-        { id: 3, title: 'OP003', price: 12000, desc: '9x12', imageUrl: '/images/Oilpaintings/op_3.jpg', description: 'Compact Oil Study' },
+        { id: 3, title: 'OP003', price: 14000, desc: '10x12', imageUrl: '/images/Oilpaintings/op_10.jpeg', description: 'Compact Oil Study' },
         { id: 4, title: 'OP004', price: 8000, desc: '12x12', imageUrl: '/images/Oilpaintings/op_4.jpg', description: 'Mini Oil Canvas' },
         { id: 5, title: 'OP005', price: 50000, desc: '24x36', imageUrl: '/images/Oilpaintings/op_5.jpeg', description: 'Premium Large Oil Painting' },
         { id: 6, title: 'OP006', price: 25000, desc: '18x24', imageUrl: '/images/Oilpaintings/op_6.jpeg', description: 'Expressive Oil Artwork' },
         { id: 7, title: 'OP007', price: 25000, desc: '18x24', imageUrl: '/images/Oilpaintings/op_7.jpeg', description: 'Textured Oil Composition' },
         { id: 8, title: 'OP008', price: 50000, desc: '24x36', imageUrl: '/images/Oilpaintings/op_8.jpeg', description: 'Gallery Grade Oil Painting' },
-        { id: 9, title: 'OP009', price: 25000, desc: '24x18', imageUrl: '/images/Oilpaintings/op_9.jpeg', description: 'Horizontal Oil Artwork' }
+        { id: 9, title: 'OP009', price: 25000, desc: '24x18', imageUrl: '/images/Oilpaintings/op_9.jpeg', description: 'Horizontal Oil Artwork' },
+        { id: 10, title: 'OP010', price: 12000, desc: '9x12', imageUrl: '/images/Oilpaintings/op_3.jpg', description: 'Compact Oil Study' },
+
       ]
     },
     {
