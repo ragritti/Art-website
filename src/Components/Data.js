@@ -6,7 +6,7 @@ export const masterData = {
       subtitle: 'Hand-drawn masterpieces',
       data: [
         { id: 1, title: 'W001', price: 18000, desc: '24*18', imageUrl: '/images/WaterColours/026.jpeg', description: 'Handmade Charcoal Art' },
-        { id: 21, title: 'W002', price: 25000, desc: '16*22', imageUrl: '/images/WaterColours/028.jpeg', description: 'Handmade Charcoal Art' },
+        { id: 23, title: 'W002', price: 10000, desc: '8.3*11.7', imageUrl: '/images/WaterColours/031.jpeg', description: 'Handmade Charcoal Art' },
         { id: 22, title: 'W003', price: 35000, desc: '22*30', imageUrl: '/images/WaterColours/029.jpeg', description: 'Handmade Charcoal Art' },
         { id: 17, title: 'W004', price: 12000, desc: '8.3*11.7', imageUrl: '/images/WaterColours/030.jpeg', description: 'Handmade Charcoal Art' },
         { id: 5, title: 'W005', price: 10000, desc: '8.3*11.7', imageUrl: '/images/WaterColours/005.jpg', description: 'Handmade Charcoal Art' },
@@ -30,6 +30,7 @@ export const masterData = {
         { id: 19, title: 'W0023', price: 35000, desc: '22*30', imageUrl: '/images/WaterColours/023.jpeg', description: 'Handmade Charcoal Art' },
         { id: 20, title: 'W0024', price: 16000, desc: '12*18', imageUrl: '/images/WaterColours/027.jpeg', description: 'Handmade Charcoal Art' },
         { id: 17, title: 'W0025', price: 22000, desc: '18*14', imageUrl: '/images/WaterColours/025.jpeg', description: 'Handmade Charcoal Art' },
+        { id: 21, title: 'W0026', price: 25000, desc: '16*22', imageUrl: '/images/WaterColours/028.jpeg', description: 'Handmade Charcoal Art' },
 
 
       ]
@@ -57,13 +58,14 @@ export const masterData = {
         { id: 1, title: 'OP001', price: 15000, desc: '15x22', imageUrl: '/images/Oilpaintings/op_1.jpg', description: 'Realistic Oil Portrait' },
         { id: 2, title: 'OP002', price: 25000, desc: '18x24', imageUrl: '/images/Oilpaintings/op_2.jpg', description: 'Detailed Oil Painting' },
         { id: 3, title: 'OP003', price: 14000, desc: '10x12', imageUrl: '/images/Oilpaintings/op_10.jpeg', description: 'Compact Oil Study' },
-        { id: 4, title: 'OP004', price: 8000, desc: '12x12', imageUrl: '/images/Oilpaintings/op_4.jpg', description: 'Mini Oil Canvas' },
+        { id: 4, title: 'OP004', price: 25000, desc: '18x24', imageUrl: '/images/Oilpaintings/op_11.jpeg', description: 'Mini Oil Canvas' },
         { id: 5, title: 'OP005', price: 50000, desc: '24x36', imageUrl: '/images/Oilpaintings/op_5.jpeg', description: 'Premium Large Oil Painting' },
         { id: 6, title: 'OP006', price: 25000, desc: '18x24', imageUrl: '/images/Oilpaintings/op_6.jpeg', description: 'Expressive Oil Artwork' },
         { id: 7, title: 'OP007', price: 25000, desc: '18x24', imageUrl: '/images/Oilpaintings/op_7.jpeg', description: 'Textured Oil Composition' },
         { id: 8, title: 'OP008', price: 50000, desc: '24x36', imageUrl: '/images/Oilpaintings/op_8.jpeg', description: 'Gallery Grade Oil Painting' },
         { id: 9, title: 'OP009', price: 25000, desc: '24x18', imageUrl: '/images/Oilpaintings/op_9.jpeg', description: 'Horizontal Oil Artwork' },
         { id: 10, title: 'OP010', price: 12000, desc: '9x12', imageUrl: '/images/Oilpaintings/op_3.jpg', description: 'Compact Oil Study' },
+        { id:11, title: 'OP011', price: 8000, desc: '12x12', imageUrl: '/images/Oilpaintings/op_4.jpg', description: 'Mini Oil Canvas' },
 
       ]
     },
